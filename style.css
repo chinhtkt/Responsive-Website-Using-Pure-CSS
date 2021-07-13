@@ -172,9 +172,9 @@ section {
      pointer-events: none;
  }
 
- /* .thumb li.active::before {
-     opacity: 0;
- } */
+ .thumb li.active::before {
+     opacity: 0.1;
+ }
 
 
  .thumb li img{
